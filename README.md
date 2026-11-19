@@ -9,7 +9,7 @@ Suite de pruebas automatizadas **End-to-End (E2E)** diseñada bajo principios de
 
 ---
 
-## Resumen Ejecutivo
+## Resumen 
 
 En aplicaciones SPA modernas, el renderizado asincrónico, el enrutamiento client-side y los cambios frecuentes de plantilla rompen los scripts tradicionales acoplados al CSS. Esta suite resuelve ese problema mediante dos capas complementarias:
 
